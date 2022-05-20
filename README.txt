@@ -1,2 +1,3 @@
-oi oioi
-oi
+O código escrito em Python consome a API Rick and Morty que retorna informações sobre os personagens da série. Assim, realizamos a conexão com a API e podemos extrair as informações. Para a visualização foi criado um servidor local em Flask e chamando o html para visualizar as informações. Assim, você pode colocar o ID do personagem e retornar o nome, o ID, a classificação e a imagem. 
+
+Exemplo : Exemplo : 127.0.0.1:500/1 para encontrar o personagem com ID 1
